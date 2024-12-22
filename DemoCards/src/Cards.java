@@ -7,7 +7,7 @@ public class Cards {
     private HashMap<String,Integer> hashMap=new HashMap<String,Integer>();
 
     private String name;
-
+//comment
     public String getName() {
         return name;
     }
